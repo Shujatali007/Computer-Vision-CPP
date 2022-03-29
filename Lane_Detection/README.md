@@ -11,13 +11,13 @@
 ### A lane detection system used behind the lane departure warning system uses the principle of Hough transform and Canny edge detector to detect lane lines from realtime camera images fed from the front-end camera of the automobile. A basic flowchart of how a lane detection algorithm works to help lane departure warning is shown in the figures.
 
 ### Steps For Detecting lanes in the Video :
-### 1. Video (Video is formed with the images.Discretizing the Video into the image.)
-### 2. Making it to Gray Scale Image
-### 3. Gaussian blurr
-### 4. Canny Edge Detection.
-### 5. Region of Interest
-### 6. Bitwise and Operation
-### 7. Hough Transform 
-### 8. Optimization of the Line
+#### 1. Video (Video is formed with the images.Discretizing the Video into the image.)
+#### 2. Making it to Gray Scale Image
+#### 3. Gaussian blurr
+#### 4. Canny Edge Detection.
+#### 5. Region of Interest
+#### 6. Bitwise and Operation
+#### 7. Hough Transform 
+#### 8. Optimization of the Line
 
-## Couldn't upload Video As it was exceeding the  25MB size.
+
