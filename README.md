@@ -1,6 +1,6 @@
 # What is openCV?
 
-### OpenCV (Open Source Computer Vision) is a library of programming functions mainly aimed at real-time computer vision. In ### simple language it is library used for Image Processing. It is mainly used to do all the operation related to Images.
+### OpenCV (Open Source Computer Vision) is a library of programming functions mainly aimed at real-time computer vision.In simple language it is library used for Image Processing. It is mainly used to do all the operation related to Images.
 
 ## What it can do : 
       1. Read and Write Images.
