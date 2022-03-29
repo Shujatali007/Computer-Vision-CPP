@@ -1,1 +1,1 @@
-# In the Following Program - Merged two different images
+## Merging of two images
